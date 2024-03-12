@@ -1,9 +1,8 @@
-# Hey there, I'm Ayush! Great to see you here!  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey there, I'm Isha! Great to see you here!  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
 <br><br>
 
-<h1 align="center">Hi 👋, I'm Isha Paghdal</h1>
 <p>I'm Isha Paghdal a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and doing Development are two of my favourite things to do.</p>
 <br>I am also an open-source enthusiast. ♥
 
