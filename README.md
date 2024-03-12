@@ -60,7 +60,7 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishapaghdal301&show_icons=true&locale=en&layout=compact)  |  ![stats](https://github-readme-stats.vercel.app/api?username=ishapaghdal301&show_icons=true&locale=en)
 
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal&)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&)
 
 </div>
 
