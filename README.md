@@ -34,6 +34,21 @@
 
 [![Isha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishapaghdal301&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- --- -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<br>
+
+<div align="center">
+
+ | Languages             |  Stats |
+:-------------------------:|:-------------------------:
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishapaghdal301&show_icons=true&locale=en&layout=compact)  |  ![stats](https://github-readme-stats.vercel.app/api?username=ishapaghdal301&show_icons=true&locale=en)
+
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&)
+
+</div>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,16 +68,6 @@
 
 <!-- --- -->
 
-<div align="center">
-
- | Languages             |  Stats |
-:-------------------------:|:-------------------------:
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishapaghdal301&show_icons=true&locale=en&layout=compact)  |  ![stats](https://github-readme-stats.vercel.app/api?username=ishapaghdal301&show_icons=true&locale=en)
-
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&)
-
-</div>
 
 ## ⚡ Tech Stack 
 
