@@ -53,6 +53,17 @@
 
 <!-- --- -->
 
+<div align="center">
+
+ | Languages             |  Stats |
+:-------------------------:|:-------------------------:
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=Srushti-Gol&show_icons=true&locale=en&layout=compact)  |  ![stats](https://github-readme-stats.vercel.app/api?username=ishapaghdal301&show_icons=true&locale=en)
+
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Srushti-Gol&)
+
+</div>
+
 ## ⚡ Tech Stack 
 
 <!-- --- -->
