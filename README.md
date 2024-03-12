@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Paghdal</h1>
-<h1>I'm Isha Paghdal a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and doing Web Development are two of my favourite things to do. I am also an open-source enthusiast. ♥</h1>
+<p>I'm Isha Paghdal a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and doing Web Development are two of my favourite things to do.</p>
+<br><br>I am also an open-source enthusiast. ♥
 
 - 🔭 I’m currently working on **DiagnoCare**
 
