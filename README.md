@@ -39,16 +39,25 @@
 
 <br>
 
-<div align="center">
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ishapaghdal301&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Isha'st's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=isapaghdal301&theme=dark&hide_border=true" />
 
- | Languages             |  Stats |
-:-------------------------:|:-------------------------:
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishapaghdal301&show_icons=true&locale=en&layout=compact)  |  ![stats](https://github-readme-stats.vercel.app/api?username=ishapaghdal301&show_icons=true&locale=en)
 
+  
+</td>
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&)
+<td width="50%" align="center">
 
-</div>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishapaghdal301&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
