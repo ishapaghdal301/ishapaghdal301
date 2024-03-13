@@ -45,7 +45,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ishapaghdal301&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Isha'st's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=isapaghdal301&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Isha'st's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&theme=dark&hide_border=true" />
 
 
   
