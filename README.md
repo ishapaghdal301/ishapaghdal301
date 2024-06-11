@@ -4,19 +4,39 @@
 <br><br>
 
 <p>I'm Isha Paghdal a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and doing Development are two of my favourite things to do.</p>
-<br>I am also an open-source enthusiast. ♥
+<br>
 
 - 🔭 I’m currently working on **DiagnoCare**
 
 - 👨‍💻 Current Goal : **Machine Learning & Web Development**
 
 <br>
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ishapaghdal301&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Isha'st's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishapaghdal301&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
 <!-- :mailbox : Reach me out! -->
 <p>Find out more about me & feel free to connect with me here:<img style="display: inline-block" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
-<br><br>
 
 
-<p align="center">
+<p >
 	<a href="https://www.linkedin.com/in/isha-paghdal-a893a523b/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
@@ -55,26 +75,6 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br>
-
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ishapaghdal301&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Isha'st's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ishapaghdal301&theme=dark&hide_border=true" />
-
-
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishapaghdal301&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
